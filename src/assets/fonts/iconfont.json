@@ -1,0 +1,30 @@
+{
+  "id": "3643821",
+  "name": "nigs",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2674474",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "17670",
+      "name": "行2",
+      "font_class": "xing2",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "23403669",
+      "name": "摩托车",
+      "font_class": "motuoche",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    }
+  ]
+}
